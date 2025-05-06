@@ -1,6 +1,6 @@
- {
-    'id': 1,
-    'title': 'updated title',
-    'body': 'updated body',
-    'userId': 1,
+{
+    "users": [
+        { "id": 1, "name": "Alice" },
+        { "id": 2, "name": "Bob" }
+    ]
 }
