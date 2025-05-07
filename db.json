@@ -4,7 +4,7 @@
         { "id": 2, "name": "Bob" }
     ],
     
-    "users": [
+    "comments": [
         { "id": 1, "name": "Alice" },
         { "id": 2, "name": "Bob" }
     ]
